@@ -34,7 +34,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run test script
         shell: bash
-        run: sudo /home/adaptive/Adaptive_Calc_Only_Server/start_silkit_adapter_tap_and_someipd.sh
+        run: sudo /home/adaptive/Adaptive_Calc_Only_Server/SilKit_Adapter_Ports/start_silkit_adapter_tap_and_someipd.sh
         
 
       # Runs a set of commands using the runners shell
